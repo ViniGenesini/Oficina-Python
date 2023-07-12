@@ -1,4 +1,8 @@
-# EXERCÍCIO 3
+''' 
+EXERCÍCIO 3
+Crie um programa que receba 4 notas e mostre a sua média aritmética.
+
+'''
 
 nota1 = float(input("Nota 1: "))
 nota2 = float(input("Nota 2: "))
