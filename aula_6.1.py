@@ -1,4 +1,9 @@
-# EXERCÍCIO 1
+''' 
+EXERCÍCIO 1
+Elabore um programa que leia um número inteiro qualquer e
+mostre na tela a sua tabuada.
+
+'''
 
 print("Responda essas 5 perguntas sobre o crime!")
 i=0
