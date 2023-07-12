@@ -1,4 +1,9 @@
-# EXERCÍCIO 3
+''' 
+EXERCÍCIO 3
+Faça um programa que receba 3 números inteiros e mostre na tela
+qual é o menor e qual é o maior.
+
+'''
 
 a = int(input("Digite um número inteiro: "))
 b = int(input("Digite um número inteiro: "))
