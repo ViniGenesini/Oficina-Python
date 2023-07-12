@@ -1,4 +1,10 @@
-# EXERCÍCIO 6
+''' 
+EXERCÍCIO 6
+Crie um programa que receba 4 notas, mostre ao usuário a sua
+média aritmética e de acordo com sua média, se ele foi aprovado ou
+reprovado.
+
+'''
 
 nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))
