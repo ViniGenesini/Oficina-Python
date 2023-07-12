@@ -1,4 +1,13 @@
-# EXERCÍCIO 3
+''' 
+EXERCÍCIO 3
+Faça um programa que verifique o ano de nascimento de um
+jovem, se ele é homem ou mulher e de acordo com sua idade o
+programa informe se ele ainda vai se alistar ao serviço militar, se é
+a hora de se alistar, ou se já passou do tempo de alistamento. Seu
+programa também deverá mostrar o tempo que falta ou que passou
+do prazo.
+
+'''
 
 sexo = input("Você é homem ou mulher? ")
 if(sexo!="Homem"):
