@@ -1,4 +1,15 @@
-# EXERCÍCIO 10
+''' 
+EXERCÍCIO 10
+Crie um programa que leia a idade e o sexo de várias
+pessoas. A cada pessoa cadastrada, o programa deverá
+perguntar se o usuário quer ou não continuar. No final,
+mostre:
+
+1) Quantas pessoas têm mais de 18 anos.
+2) Quantos homens foram cadastrados.
+3) Quantas mulheres têm menos de 20 anos.
+
+'''
 
 print("*** DADOS PESSOAIS ***\n")
 maioridade = []
